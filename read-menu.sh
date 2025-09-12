@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 #read-menu: a menu driven system information program
 
