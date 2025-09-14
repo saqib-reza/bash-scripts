@@ -1,1 +1,1 @@
-echo "# bash-scripts"
+# Simple bash-scripts
